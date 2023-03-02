@@ -21,7 +21,7 @@ My drive for knowledge and growth has led me to pursue a computer science bachel
 
 Join me on my journey as a frontend developer and follow my work here on GitHub!
 
-- 🔭 I’m currently working on <a href="https://github.com/ygg-m/fg-input-translator">Fighting Game Input Translator</a>
+- 🔭 I’m currently working on <a href="https://github.com/ygg-m/yggxiv">Ygg XIV</a>
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Backend
