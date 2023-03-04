@@ -26,6 +26,6 @@ Join me on my journey as a frontend developer and follow my work here on GitHub!
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about JavaScript, HTML, CSS, React and Design!
-- 📫 How to reach me: Twitter @<a href="https://twitter.com/yggm_">yggm_</a>
+- 📫 How to reach me: Instagram @[ygg.js](https://www.instagram.com/ygg.js/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Better way to know me is punch each other in a fighting game!
