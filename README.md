@@ -6,11 +6,6 @@ My drive for knowledge and growth has led me to pursue a computer science bachel
 
 Join me on my journey as a frontend developer and follow my work here on GitHub!
 
-- 🔭 I’m currently working on <a href="https://github.com/ygg-m/yggxiv">Ygg XIV</a>
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking for help with Backend
-- 💬 Ask me about JavaScript, HTML, CSS, React and Design!
-- 📫 How to reach me: Instagram [@ygg.js](https://www.instagram.com/ygg.js/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love technical games like Fighting Games and Monster Hunter!
+- How to reach me: Instagram [@ygg.js](https://www.instagram.com/ygg.js/)
+- I’m looking to collaborate on Frontend Projects
+- Fun fact: I love technical games like Fighting Games and Monster Hunter
